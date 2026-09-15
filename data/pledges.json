@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "fin-deficit-pod-3",
+    "text": "Udržovat deficit veřejných financí blízko vyrovnané bilance pod 3 %",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-eet2",
+    "text": "Zavést EET 2.0 od roku 2027 s moderním systémem evidence tržeb",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-digitalni-danova-kobra",
+    "text": "Zavést Digitální daňovou kobru s AI pro odhalení daňových úniků",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-celni-sprava",
+    "text": "Rozšířit kompetence Celní správy a zvýšit platy celníků na min. 50 000 Kč",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-dppo-19",
+    "text": "Snížit daň z příjmů právnických osob na 19 %",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-dan-z-nemovitosti",
+    "text": "Zastavit automatické valorizace daně z nemovitostí prostřednictvím inflačních koeficientů",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-dph-leky",
+    "text": "Zavést 0% DPH na léky na předpis",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-osvc-vymerovaci-zaklad",
+    "text": "Zastavit zvyšování vyměřovacího základu pro sociální pojistné OSVČ (zůstane na 35 %)",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-sleva-studenti",
+    "text": "Vrátit daňovou slevu pro pracující studenty",
+    "category": "Finance a hospodaření státu",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-skolkovne-sleva-manzel",
+    "text": "Vrátit školkovné a původní podobu slevy na druhého z manželů",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-sleva-ctvrte-dite",
+    "text": "Zavést daňovou slevu za 4. a další dítě",
+    "category": "Finance a hospodaření státu",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-volnocasove-benefity",
+    "text": "Zrušit zastropování volnočasových benefitů zaměstnanců",
+    "category": "Finance a hospodaření státu",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-dph-vraceni-3-mesice",
+    "text": "Zkrátit lhůtu pro vrácení DPH z nezaplacených faktur z 6 na 3 měsíce",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-registr-dotaci",
+    "text": "Zřídit veřejný registr všech dotací pro neziskové organizace",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-dph-gastro-12",
+    "text": "Sjednotit DPH na stravovací služby a nealkoholické nápoje na 12 %",
+    "category": "Finance a hospodaření státu",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-spropitne",
+    "text": "Osvobodit dobrovolné spropitné v gastronomii od odvodů a daní",
+    "category": "Finance a hospodaření státu",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-jednotne-inkasni-misto",
+    "text": "Zřídit jednotné inkasní místo pro daně a pojištění",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-statni-dluhopisy",
+    "text": "Nabídnout státní dluhopisy pro občany (od 1 000 Kč do 3 000 000 Kč)",
+    "category": "Finance a hospodaření státu",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-koruna-v-ustave",
+    "text": "Navrhnout ukotvení české koruny v Ústavě ČR",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-hotovost-v-ustave",
+    "text": "Ukotvit právo na hotovost v ústavě",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "fin-nastupni-plat-celniku",
+    "text": "Nástupní plat celníků 50 tisíc korun",
+    "category": "Finance a hospodaření státu",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vnitr-nastupni-plat-policie-hasici",
+    "text": "Navýšit nástupní plat policisty a hasiče na 50 000 Kč",
+    "category": "Vnitřní bezpečnost a veřejná správa",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vnitr-sjednoceni-platu-slozek",
+    "text": "Sjednotit platy vojáků, policistů a hasičů na srovnatelnou úroveň",
+    "category": "Vnitřní bezpečnost a veřejná správa",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vnitr-prispevek-na-bydleni",
+    "text": "Zavést příspěvek na bydlení pro bezpečnostní složky do výše 6 000 Kč měsíčně",
+    "category": "Vnitřní bezpečnost a veřejná správa",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vnitr-policejni-sluzebny",
+    "text": "Zastavit rušení policejních služeben",
+    "category": "Vnitřní bezpečnost a veřejná správa",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vnitr-policie-v-ulicich",
+    "text": "Zvýšit přítomnost policie v problémových lokalitách a veřejné dopravě",
+    "category": "Vnitřní bezpečnost a veřejná správa",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vnitr-nulova-tolerance-migrace",
+    "text": "Zavést politiku nulové tolerance vůči nelegální migraci",
+    "category": "Vnitřní bezpečnost a veřejná správa",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vnitr-migracni-pakt-eu",
+    "text": "Odmítnout migrační pakt EU a přijmout nový zákon o migraci a azylu",
+    "category": "Vnitřní bezpečnost a veřejná správa",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vnitr-pobyt-cizincu",
+    "text": "Zpřísnit pravidla pro pobyt cizinců a rychlé vyhošťování pachatelů trestných činů",
+    "category": "Vnitřní bezpečnost a veřejná správa",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vnitr-naborova-centra",
+    "text": "Připravit síť náborových a výcvikových center pro bezpečnostní složky",
+    "category": "Vnitřní bezpečnost a veřejná správa",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vnitr-nukib",
+    "text": "Posílit kapacity NÚKIB a ochranu kritické infrastruktury",
+    "category": "Vnitřní bezpečnost a veřejná správa",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vnitr-drzitele-zbrani",
+    "text": "Zachovat práva legálních držitelů zbraní",
+    "category": "Vnitřní bezpečnost a veřejná správa",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vnitr-dobrovolni-hasici",
+    "text": "Podpořit jednotky dobrovolných hasičů jako klíčový prvek bezpečnosti v regionech",
+    "category": "Vnitřní bezpečnost a veřejná správa",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "obr-audit-hospodareni",
+    "text": "Provést audit hospodaření Ministerstva obrany a akvizic",
+    "category": "Obranná politika a Armáda České republiky",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "obr-koncepce-acr-2035",
+    "text": "Vypracovat novou Koncepci výstavby AČR 2035 s důrazem na národní priority",
+    "category": "Obranná politika a Armáda České republiky",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "obr-odmitnuti-armady-eu",
+    "text": "Odmítnout vytváření paralelních vojenských struktur EU (Armády EU)",
+    "category": "Obranná politika a Armáda České republiky",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "obr-cesky-prumysl-v-akvizicich",
+    "text": "Maximálně zapojit český průmysl do všech obranných akvizic",
+    "category": "Obranná politika a Armáda České republiky",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "obr-modernizace-techniky",
+    "text": "Modernizovat výstroj, výzbroj a techniku armády",
+    "category": "Obranná politika a Armáda České republiky",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "obr-ochrana-hranic-a-vzdusneho-prostoru",
+    "text": "Posílit ochranu hranic, vzdušného prostoru a kybernetickou obranu",
+    "category": "Obranná politika a Armáda České republiky",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "obr-platy-vojaku",
+    "text": "Zajistit důstojné platy a podmínky pro vojáky",
+    "category": "Obranná politika a Armáda České republiky",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zahr-narodni-zajmy-eu-nato",
+    "text": "Prosazovat národní zájmy ČR v rámci EU a NATO",
+    "category": "Zahraniční politika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zahr-suverenita-cr",
+    "text": "Bránit suverenitu ČR a odmítnout centralizaci moci v Bruselu",
+    "category": "Zahraniční politika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zahr-odmitnuti-eura",
+    "text": "Nepodporovat přijetí eura",
+    "category": "Zahraniční politika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zahr-ekonomicka-diplomacie",
+    "text": "Posílit ekonomickou diplomacii a podporu exportu",
+    "category": "Zahraniční politika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zahr-ets2",
+    "text": "Odmítnout emisní povolenky ETS2",
+    "category": "Zahraniční politika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zahr-zruseni-ministra-pro-eu",
+    "text": "Zrušit post ministra pro evropské záležitosti",
+    "category": "Zahraniční politika",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "prav-zrychleni-soudniho-rizeni",
+    "text": "Zrychlit soudní řízení a snížit délku soudních sporů",
+    "category": "Právo a spravedlnost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "prav-nezavislost-justice",
+    "text": "Posílit nezávislost soudnictví a transparentnost",
+    "category": "Právo a spravedlnost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "prav-tresty-recidivisti",
+    "text": "Zpřísnit tresty pro recidivisty a násilné trestné činy",
+    "category": "Právo a spravedlnost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "prav-vezenstvi-a-probace",
+    "text": "Modernizovat vězeňství a zajistit dostupnou probaci",
+    "category": "Právo a spravedlnost",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "prav-ochrana-obeti",
+    "text": "Zlepšit ochranu obětí trestných činů",
+    "category": "Právo a spravedlnost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "prav-celostatni-referendum",
+    "text": "Připravit zákon o celostátním referendu",
+    "category": "Právo a spravedlnost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "prav-trestny-cin-cizi-moc",
+    "text": "Zrušit trestný čin neoprávněné činnosti pro cizí moc",
+    "category": "Právo a spravedlnost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "prav-nastupni-plat-vezenska-sluzba",
+    "text": "Nástupní plat příslušníků vězeňské služby 50 tisíc korun",
+    "category": "Právo a spravedlnost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "hosp-ceny-energii",
+    "text": "Zajistit přijatelné ceny energií pro domácnosti i podniky",
+    "category": "Hospodářství, průmysl a energetika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "hosp-ets2",
+    "text": "Odmítnout emisní povolenky ETS2",
+    "category": "Hospodářství, průmysl a energetika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "hosp-poplatky-za-distribuci",
+    "text": "Snížit poplatky za distribuci a přenos elektřiny",
+    "category": "Hospodářství, průmysl a energetika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "hosp-jaderna-energetika",
+    "text": "Podpořit rozvoj jaderné energetiky",
+    "category": "Hospodářství, průmysl a energetika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "hosp-energeticka-bezpecnost",
+    "text": "Posílit energetickou bezpečnost a soběstačnost státu",
+    "category": "Hospodářství, průmysl a energetika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "hosp-domaci-zdroje-energie",
+    "text": "Podpořit domácí zdroje energie a moderní technologie",
+    "category": "Hospodářství, průmysl a energetika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "hosp-administrativni-zatez",
+    "text": "Snížit administrativní zátěž pro podnikatele",
+    "category": "Hospodářství, průmysl a energetika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "hosp-inovace-a-digitalizace-prumyslu",
+    "text": "Podpořit inovace a digitalizaci průmyslu",
+    "category": "Hospodářství, průmysl a energetika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "hosp-kontrola-nad-vyrobou-cez",
+    "text": "Získat stoprocentní kontrolu nad výrobou ve skupině ČEZ",
+    "category": "Hospodářství, průmysl a energetika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "hosp-dukovany-5-6",
+    "text": "Zahájit stavební řízení nových jaderných bloků Dukovany 5 a 6",
+    "category": "Hospodářství, průmysl a energetika",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "doprava-dalnicni-sit",
+    "text": "Dokončit dálniční síť D1, D3, D4, D11 a D35",
+    "category": "Doprava",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "doprava-vysokorychlostni-trate",
+    "text": "Urychlit výstavbu vysokorychlostních tratí",
+    "category": "Doprava",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "doprava-modernizace-zeleznice",
+    "text": "Modernizovat železniční infrastrukturu",
+    "category": "Doprava",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "doprava-silnice-2-a-3-tridy",
+    "text": "Zlepšit stav silnic druhé a třetí třídy",
+    "category": "Doprava",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "doprava-verejna-doprava-v-regionech",
+    "text": "Podpořit rozvoj veřejné dopravy v regionech",
+    "category": "Doprava",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "doprava-stavebni-rizeni",
+    "text": "Zjednodušit a zrychlit stavební řízení pro dopravní stavby",
+    "category": "Doprava",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "doprava-spalovaci-motory-2035",
+    "text": "Odmítnout zákaz spalovacích motorů od roku 2035",
+    "category": "Doprava",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "doprava-slevy-na-jizdne",
+    "text": "Vrátit slevy na jízdné pro studenty a seniory ve výši 75 procent",
+    "category": "Doprava",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "doprava-praha-letiste-kladno",
+    "text": "Propojit Prahu, ruzyňské letiště a Kladno železnicí do roku 2029",
+    "category": "Doprava",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "doprava-letiste-praha",
+    "text": "Podpořit projekt modernizace Letiště Praha",
+    "category": "Doprava",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vzdel-platy-ucitelu",
+    "text": "Zvýšit platy učitelů",
+    "category": "Vzdělávání",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vzdel-mista-ve-skolkach",
+    "text": "Zajistit dostatek míst ve školkách",
+    "category": "Vzdělávání",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vzdel-bezplatne-vzdelavani",
+    "text": "Zachovat bezplatné vzdělávání pro všechny",
+    "category": "Vzdělávání",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vzdel-obsah-vyuky",
+    "text": "Modernizovat obsah výuky a posílit praktické dovednosti",
+    "category": "Vzdělávání",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vzdel-digitalizace-skolstvi",
+    "text": "Podpořit digitalizaci ve školství",
+    "category": "Vzdělávání",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vzdel-podminky-pedagogu",
+    "text": "Zlepšit podmínky pro pedagogy a snížit administrativní zátěž",
+    "category": "Vzdělávání",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vzdel-financni-gramotnost-a-ai",
+    "text": "Posílit finanční gramotnost a výuku práce s AI",
+    "category": "Vzdělávání",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "vzdel-nastupni-plat-ucitele",
+    "text": "Nástupní plat učitele 50 tisíc korun, garantovaný průměrný plat 75 tisíc korun",
+    "category": "Vzdělávání",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "soc-duchodovy-vek-65",
+    "text": "Zastropovat důchodový věk na 65 letech",
+    "category": "Sociální politika a zaměstnanost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "soc-valorizace-duchodu",
+    "text": "Obnovit spravedlivý systém valorizací důchodů",
+    "category": "Sociální politika a zaměstnanost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "soc-udrzitelny-duchodovy-system",
+    "text": "Zajistit finančně udržitelný a spravedlivý důchodový systém",
+    "category": "Sociální politika a zaměstnanost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "soc-dostupnost-socialnich-sluzeb",
+    "text": "Posílit dostupnost sociálních služeb",
+    "category": "Sociální politika a zaměstnanost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "soc-pece-o-seniory-a-ozp",
+    "text": "Zlepšit péči o seniory a osoby se zdravotním postižením",
+    "category": "Sociální politika a zaměstnanost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "soc-revize-davek",
+    "text": "Provést revizi systému sociálních dávek a zabránit zneužívání",
+    "category": "Sociální politika a zaměstnanost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "soc-motivace-k-praci",
+    "text": "Zvýšit motivaci k práci a aktivnímu zapojení do společnosti",
+    "category": "Sociální politika a zaměstnanost",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "soc-slad-prace-a-rodiny",
+    "text": "Podpořit rovnováhu mezi pracovním a rodinným životem",
+    "category": "Sociální politika a zaměstnanost",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "soc-rodicovsky-prispevek-400k",
+    "text": "Zvýšit rodičovský příspěvek na 400 000 Kč",
+    "category": "Sociální politika a zaměstnanost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "soc-vekove-valorizace-od-80",
+    "text": "Zavést věkové valorizace důchodů od 80 let",
+    "category": "Sociální politika a zaměstnanost",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zdrav-cekaci-lhuty",
+    "text": "Zkrátit čekací lhůty na vyšetření a zákroky",
+    "category": "Zdravotnictví",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zdrav-dostupnost-leku",
+    "text": "Zajistit dostupnost léků",
+    "category": "Zdravotnictví",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zdrav-prevence-onko-kardio",
+    "text": "Posílit prevenci nádorových a kardiovaskulárních onemocnění",
+    "category": "Zdravotnictví",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zdrav-dusevni-zdravi",
+    "text": "Věnovat zvláštní pozornost duševnímu zdraví",
+    "category": "Zdravotnictví",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zdrav-modernizace-nemocnic",
+    "text": "Modernizovat nemocnice a zdravotnické vybavení",
+    "category": "Zdravotnictví",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zdrav-digitalizace",
+    "text": "Digitalizovat zdravotnictví",
+    "category": "Zdravotnictví",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zdrav-personalni-stabilita",
+    "text": "Posílit personální stabilitu ve zdravotnických profesích",
+    "category": "Zdravotnictví",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zdrav-podminky-zdravotniku",
+    "text": "Zlepšit podmínky pro lékaře a zdravotníky",
+    "category": "Zdravotnictví",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zdrav-dostupna-pece-pro-vsechny",
+    "text": "Zajistit kvalitní, bezplatné a dostupné zdravotnictví pro všechny",
+    "category": "Zdravotnictví",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zdrav-fakultni-nemocnice-praha",
+    "text": "Zahájit výstavbu nové fakultní nemocnice v Praze",
+    "category": "Zdravotnictví",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zem-potravinova-sobestacnost",
+    "text": "Podpořit soběstačnost v potravinách",
+    "category": "Zemědělství",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zem-ferove-podminky",
+    "text": "Zajistit férové podmínky pro české zemědělce",
+    "category": "Zemědělství",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zem-lokalni-producenti",
+    "text": "Podpořit tradiční a lokální producenty",
+    "category": "Zemědělství",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zem-byrokracie",
+    "text": "Snížit byrokracii v zemědělství",
+    "category": "Zemědělství",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zem-ochrana-pudy",
+    "text": "Chránit zemědělskou půdu před nezemědělským využitím",
+    "category": "Zemědělství",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zem-mladi-zemedelci",
+    "text": "Podpořit mladé zemědělce",
+    "category": "Zemědělství",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zivpr-ochrana-prirody",
+    "text": "Chránit přírodu a krajinu jako základní bohatství země",
+    "category": "Životní prostředí",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zivpr-opatreni-proti-suchu",
+    "text": "Provést účinná opatření proti suchu",
+    "category": "Životní prostředí",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zivpr-lesy-a-voda-v-krajine",
+    "text": "Obnovit lesy a podpořit zadržování vody v krajině",
+    "category": "Životní prostředí",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zivpr-ochrana-zvirat",
+    "text": "Posílit ochranu zvířat a zlepšit podmínky pro jejich život",
+    "category": "Životní prostředí",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zivpr-cista-energie",
+    "text": "Podpořit čistou energii a snížit emise",
+    "category": "Životní prostředí",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zivpr-odpady-a-recyklace",
+    "text": "Zlepšit nakládání s odpady a podporu recyklace",
+    "category": "Životní prostředí",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "zivpr-green-deal",
+    "text": "Odmítnout Green Deal v současné podobě, prosazovat jeho revizi",
+    "category": "Životní prostředí",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "kult-financovani-kultury",
+    "text": "Zajistit stabilní financování kultury",
+    "category": "Kultura",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "kult-regionalni-instituce",
+    "text": "Podpořit regionální kulturní instituce",
+    "category": "Kultura",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "kult-kulturni-dedictvi",
+    "text": "Chránit kulturní dědictví",
+    "category": "Kultura",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "kult-ziva-kultura",
+    "text": "Podpořit živou kulturu a nezávislé umělce",
+    "category": "Kultura",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "kult-dostupnost-vsem-generacim",
+    "text": "Zpřístupnit kulturu všem generacím",
+    "category": "Kultura",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "kult-poplatky-verejnopravni-media",
+    "text": "Zrušit poplatky za veřejnoprávní média",
+    "category": "Kultura",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "kult-vstup-zdarma-do-muzei",
+    "text": "Zavést vstup zdarma do státních muzeí a galerií pro mládež, seniory a hendikepované",
+    "category": "Kultura",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "kult-vltavska-filharmonie",
+    "text": "Dokončit Vltavskou filharmonii v Praze",
+    "category": "Kultura",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "kult-platy-pracovniku-v-kulture",
+    "text": "Zvýšit platy pracovníků v kultuře",
+    "category": "Kultura",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "byd-zrychleni-stavebniho-rizeni",
+    "text": "Zrychlit a zjednodušit stavební řízení",
+    "category": "Bydlení a regionální rozvoj",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "byd-najemni-a-druzstevni-byty",
+    "text": "Podpořit výstavbu nájemních a družstevních bytů",
+    "category": "Bydlení a regionální rozvoj",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "byd-podpora-mladych-rodin",
+    "text": "Zajistit státní podporu financování bydlení pro mladé rodiny",
+    "category": "Bydlení a regionální rozvoj",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "byd-studentske-koleje",
+    "text": "Podpořit výstavbu studentských kolejí",
+    "category": "Bydlení a regionální rozvoj",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "byd-byty-pro-seniory",
+    "text": "Podpořit výstavbu bytů pro seniory",
+    "category": "Bydlení a regionální rozvoj",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "byd-bydleni-pro-klicove-profese",
+    "text": "Zajistit podporu bydlení pro klíčové profese",
+    "category": "Bydlení a regionální rozvoj",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "byd-vyrovnani-regionalnich-rozdilu",
+    "text": "Vyrovnat rozdíly mezi regiony",
+    "category": "Bydlení a regionální rozvoj",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "byd-novy-stavebni-zakon",
+    "text": "Připravit nový stavební zákon se zrychlením stavebního řízení",
+    "category": "Bydlení a regionální rozvoj",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "sport-dostupnost-pohybovych-aktivit",
+    "text": "Zajistit rozvoj sportu a dostupnost pohybových aktivit pro všechny generace",
+    "category": "Sport, prevence a zdraví",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "sport-sportovni-infrastruktura",
+    "text": "Modernizovat sportovní infrastrukturu",
+    "category": "Sport, prevence a zdraví",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "sport-mladeznicky-sport",
+    "text": "Podpořit mládežnický sport",
+    "category": "Sport, prevence a zdraví",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "sport-prevence-civilizacnich-chorob",
+    "text": "Posílit prevenci civilizačních chorob",
+    "category": "Sport, prevence a zdraví",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "sport-vrcholovy-sport",
+    "text": "Zajistit podporu vrcholového sportu",
+    "category": "Sport, prevence a zdraví",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "veda-investice-do-vyzkumu",
+    "text": "Podpořit investice do vědy, výzkumu a inovací",
+    "category": "Věda, výzkum a inovace",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "veda-propojeni-s-praxi",
+    "text": "Propojit akademickou sféru s praxí",
+    "category": "Věda, výzkum a inovace",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "veda-startupy",
+    "text": "Podpořit start-upy a technologické firmy",
+    "category": "Věda, výzkum a inovace",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "veda-podminky-pro-vyzkumniky",
+    "text": "Zajistit lepší podmínky pro vědce a výzkumníky",
+    "category": "Věda, výzkum a inovace",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "veda-zruseni-ministra-pro-vedu",
+    "text": "Zrušit funkci ministra pro vědu",
+    "category": "Věda, výzkum a inovace",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "dig-digitalizace-statni-spravy",
+    "text": "Digitalizovat státní správu",
+    "category": "Digitalizace",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "dig-snizeni-administrativni-zateze",
+    "text": "Snížit administrativní zátěž prostřednictvím digitalizace",
+    "category": "Digitalizace",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "dig-kyberneticka-bezpecnost",
+    "text": "Zajistit kybernetickou bezpečnost",
+    "category": "Digitalizace",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "dig-digitalni-infrastruktura",
+    "text": "Podpořit rozvoj digitální infrastruktury",
+    "category": "Digitalizace",
+    "priority": "vysoká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  },
+  {
+    "id": "dig-digitalni-gramotnost",
+    "text": "Zajistit digitální gramotnost obyvatel",
+    "category": "Digitalizace",
+    "priority": "nízká",
+    "sources": [
+      "navrh",
+      "final"
+    ],
+    "draftExtra": null,
+    "status": "nesplněno"
+  }
+]
