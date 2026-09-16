@@ -55,9 +55,6 @@ function render() {
 }
 
 function renderCard(p) {
-  const sourceBadges = p.sources
-    .map(s => `<span class="badge badge-source badge-source-${s}">${s === 'navrh' ? 'Návrh' : 'Finální'}</span>`)
-    .join('');
   const extra = p.draftExtra
     ? `<p class="pledge-extra">Z návrhu, nedostalo se do finální verze: „${escapeHtml(p.draftExtra)}“</p>`
     : '';
@@ -71,7 +68,6 @@ function renderCard(p) {
       <div class="pledge-badges">
         <span class="badge badge-category">${escapeHtml(p.category)}</span>
         <span class="badge badge-priority badge-priority-${p.priority}">${p.priority === 'vysoká' ? 'Vysoká priorita' : 'Nízká priorita'}</span>
-        ${sourceBadges}
       </div>
       ${extra}
     </div>
