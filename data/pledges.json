@@ -349,7 +349,7 @@
   },
   {
     "id": "vnitr-naborova-centra",
-    "text": "Připravit síť náborových a výcvikových center pro bezpečnostní složky",
+    "text": "Vybudovat síť náborových a výcvikových center pro policii, hasiče, armádu, celní správu a vězeňskou službu se startovacími byty a školkami pro rodiny příslušníků",
     "category": "Vnitřní bezpečnost a veřejná správa",
     "priority": "nízká",
     "sources": [
@@ -385,7 +385,7 @@
   },
   {
     "id": "vnitr-dobrovolni-hasici",
-    "text": "Podpořit jednotky dobrovolných hasičů jako klíčový prvek bezpečnosti v regionech",
+    "text": "Podpořit jednotky dobrovolných hasičů modernizací jejich vybavení a zlepšením zdravotního a sociálního zázemí",
     "category": "Vnitřní bezpečnost a veřejná správa",
     "priority": "nízká",
     "sources": [
@@ -445,7 +445,7 @@
   },
   {
     "id": "obr-modernizace-techniky",
-    "text": "Modernizovat výstroj, výzbroj a techniku armády",
+    "text": "Modernizovat výstroj a výzbroj armády, včetně systémů protidronové a protivzdušné ochrany",
     "category": "Obranná politika a Armáda České republiky",
     "priority": "vysoká",
     "sources": [
@@ -469,7 +469,7 @@
   },
   {
     "id": "obr-platy-vojaku",
-    "text": "Zajistit důstojné platy a podmínky pro vojáky",
+    "text": "Zajistit nástupní plat vojáka 50 000 Kč od roku 2026, pravidelnou valorizaci a obnovení benefitů (FKSP, školkovné)",
     "category": "Obranná politika a Armáda České republiky",
     "priority": "vysoká",
     "sources": [
@@ -493,7 +493,7 @@
   },
   {
     "id": "zahr-suverenita-cr",
-    "text": "Bránit suverenitu ČR a odmítnout centralizaci moci v Bruselu",
+    "text": "Bránit suverenitu ČR odmítnutím přesunu dalších pravomocí na EU a oslabování principu jednomyslnosti",
     "category": "Zahraniční politika",
     "priority": "vysoká",
     "sources": [
@@ -517,7 +517,7 @@
   },
   {
     "id": "zahr-ekonomicka-diplomacie",
-    "text": "Posílit ekonomickou diplomacii a podporu exportu",
+    "text": "Posílit ekonomickou diplomacii a diverzifikovat export do Asie, Latinské Ameriky, Blízkého východu a Afriky",
     "category": "Zahraniční politika",
     "priority": "vysoká",
     "sources": [
@@ -565,7 +565,7 @@
   },
   {
     "id": "prav-nezavislost-justice",
-    "text": "Posílit nezávislost soudnictví a transparentnost",
+    "text": "Zavést povinné průběžné vzdělávání soudců a státních zástupců a zvýšit prostupnost právnických profesí",
     "category": "Právo a spravedlnost",
     "priority": "vysoká",
     "sources": [
@@ -577,7 +577,7 @@
   },
   {
     "id": "prav-tresty-recidivisti",
-    "text": "Zpřísnit tresty pro recidivisty a násilné trestné činy",
+    "text": "Zpřísnit tresty za násilí na seniorech, ženách a dětech a podmínky pro recidivisty po podmínečném propuštění",
     "category": "Právo a spravedlnost",
     "priority": "vysoká",
     "sources": [
@@ -589,7 +589,7 @@
   },
   {
     "id": "prav-vezenstvi-a-probace",
-    "text": "Modernizovat vězeňství a zajistit dostupnou probaci",
+    "text": "Modernizovat věznice, rozšířit elektronické náramky a zajistit, aby vězni pracovali ve výrobních halách",
     "category": "Právo a spravedlnost",
     "priority": "nízká",
     "sources": [
@@ -613,7 +613,7 @@
   },
   {
     "id": "prav-celostatni-referendum",
-    "text": "Připravit zákon o celostátním referendu",
+    "text": "Připravit zákon o celostátním referendu, s výjimkou otázek členství v EU a NATO",
     "category": "Právo a spravedlnost",
     "priority": "vysoká",
     "sources": [
@@ -649,7 +649,7 @@
   },
   {
     "id": "hosp-ceny-energii",
-    "text": "Zajistit přijatelné ceny energií pro domácnosti i podniky",
+    "text": "Zajistit přijatelné ceny energií zrušením poplatku za POZE pro domácnosti a firmy (převezme ho stát)",
     "category": "Hospodářství, průmysl a energetika",
     "priority": "vysoká",
     "sources": [
@@ -685,7 +685,7 @@
   },
   {
     "id": "hosp-jaderna-energetika",
-    "text": "Podpořit rozvoj jaderné energetiky",
+    "text": "Podpořit rozvoj jaderné energetiky včetně malých modulárních reaktorů (SMR)",
     "category": "Hospodářství, průmysl a energetika",
     "priority": "vysoká",
     "sources": [
@@ -697,7 +697,7 @@
   },
   {
     "id": "hosp-energeticka-bezpecnost",
-    "text": "Posílit energetickou bezpečnost a soběstačnost státu",
+    "text": "Posílit energetickou bezpečnost prevencí blackoutů a omezením závislosti na dovozech elektřiny",
     "category": "Hospodářství, průmysl a energetika",
     "priority": "vysoká",
     "sources": [
@@ -709,7 +709,7 @@
   },
   {
     "id": "hosp-domaci-zdroje-energie",
-    "text": "Podpořit domácí zdroje energie a moderní technologie",
+    "text": "Podpořit obnovitelné zdroje, akumulační technologie a vodní přečerpávací elektrárny",
     "category": "Hospodářství, průmysl a energetika",
     "priority": "vysoká",
     "sources": [
@@ -721,7 +721,7 @@
   },
   {
     "id": "hosp-administrativni-zatez",
-    "text": "Snížit administrativní zátěž pro podnikatele",
+    "text": "Snížit byrokratickou zátěž podnikatelů sloučením státních kontrol a reformou napříč resorty",
     "category": "Hospodářství, průmysl a energetika",
     "priority": "vysoká",
     "sources": [
@@ -733,7 +733,7 @@
   },
   {
     "id": "hosp-inovace-a-digitalizace-prumyslu",
-    "text": "Podpořit inovace a digitalizaci průmyslu",
+    "text": "Podpořit inovace zrychlenými daňovými odpisy investic a zjednodušenými odpočty na výzkum",
     "category": "Hospodářství, průmysl a energetika",
     "priority": "vysoká",
     "sources": [
@@ -745,7 +745,7 @@
   },
   {
     "id": "hosp-kontrola-nad-vyrobou-cez",
-    "text": "Získat stoprocentní kontrolu nad výrobou ve skupině ČEZ",
+    "text": "Získat stoprocentní kontrolu nad výrobou ve skupině ČEZ vlastním výkupem akcií, bez zátěže státního rozpočtu",
     "category": "Hospodářství, průmysl a energetika",
     "priority": "vysoká",
     "sources": [
@@ -769,7 +769,7 @@
   },
   {
     "id": "doprava-dalnicni-sit",
-    "text": "Dokončit dálniční síť D1, D3, D4, D11 a D35",
+    "text": "Dokončit D11 do Polska, D6 Praha–Karlovy Vary, rozšíření D1 u Brna a D35 do Mohelnice",
     "category": "Doprava",
     "priority": "vysoká",
     "sources": [
@@ -781,7 +781,7 @@
   },
   {
     "id": "doprava-vysokorychlostni-trate",
-    "text": "Urychlit výstavbu vysokorychlostních tratí",
+    "text": "Provést analýzu proveditelnosti vysokorychlostních tratí a pokračovat v jejich přípravě podle rozpočtu SFDI",
     "category": "Doprava",
     "priority": "vysoká",
     "sources": [
@@ -793,7 +793,7 @@
   },
   {
     "id": "doprava-modernizace-zeleznice",
-    "text": "Modernizovat železniční infrastrukturu",
+    "text": "Zvýšit rychlost na 200 km/h na vybraných železničních úsecích, rozšířit elektrifikaci a zabezpečit 400 přejezdů",
     "category": "Doprava",
     "priority": "vysoká",
     "sources": [
@@ -817,7 +817,7 @@
   },
   {
     "id": "doprava-verejna-doprava-v-regionech",
-    "text": "Podpořit rozvoj veřejné dopravy v regionech",
+    "text": "Sjednotit systém veřejné dopravy a podpořit vznik přestupních terminálů propojujících regiony",
     "category": "Doprava",
     "priority": "vysoká",
     "sources": [
@@ -829,7 +829,7 @@
   },
   {
     "id": "doprava-stavebni-rizeni",
-    "text": "Zjednodušit a zrychlit stavební řízení pro dopravní stavby",
+    "text": "Otevřít liniový zákon pro urychlení povolování dopravních staveb",
     "category": "Doprava",
     "priority": "vysoká",
     "sources": [
@@ -841,7 +841,7 @@
   },
   {
     "id": "doprava-spalovaci-motory-2035",
-    "text": "Odmítnout zákaz spalovacích motorů od roku 2035",
+    "text": "Odmítnout zákaz spalovacích motorů od roku 2035 a zavádění uhlíkových daní na paliva",
     "category": "Doprava",
     "priority": "vysoká",
     "sources": [
@@ -877,7 +877,7 @@
   },
   {
     "id": "doprava-letiste-praha",
-    "text": "Podpořit projekt modernizace Letiště Praha",
+    "text": "Podpořit modernizaci Letiště Praha včetně kolejového napojení z centra města",
     "category": "Doprava",
     "priority": "vysoká",
     "sources": [
@@ -889,7 +889,7 @@
   },
   {
     "id": "vzdel-platy-ucitelu",
-    "text": "Zvýšit platy učitelů",
+    "text": "Zvýšit platy učitelů podle nového kariérního řádu místo dosavadní platové tabulky",
     "category": "Vzdělávání",
     "priority": "vysoká",
     "sources": [
@@ -901,7 +901,7 @@
   },
   {
     "id": "vzdel-mista-ve-skolkach",
-    "text": "Zajistit dostatek míst ve školkách",
+    "text": "Podpořit investice do mateřských škol v oblastech s nedostatkem kapacit",
     "category": "Vzdělávání",
     "priority": "vysoká",
     "sources": [
@@ -925,7 +925,7 @@
   },
   {
     "id": "vzdel-obsah-vyuky",
-    "text": "Modernizovat obsah výuky a posílit praktické dovednosti",
+    "text": "Podpořit duální vzdělávání kombinující teoretickou výuku ve školách s praxí ve firmách",
     "category": "Vzdělávání",
     "priority": "vysoká",
     "sources": [
@@ -937,7 +937,7 @@
   },
   {
     "id": "vzdel-digitalizace-skolstvi",
-    "text": "Podpořit digitalizaci ve školství",
+    "text": "Zavést smysluplné využití umělé inteligence do výuky se souhlasem vyučujícího",
     "category": "Vzdělávání",
     "priority": "nízká",
     "sources": [
@@ -997,7 +997,7 @@
   },
   {
     "id": "soc-valorizace-duchodu",
-    "text": "Obnovit spravedlivý systém valorizací důchodů",
+    "text": "Obnovit valorizační vzorec zohledňující růst životních nákladů důchodců a polovinu růstu reálných mezd",
     "category": "Sociální politika a zaměstnanost",
     "priority": "vysoká",
     "sources": [
@@ -1009,7 +1009,7 @@
   },
   {
     "id": "soc-udrzitelny-duchodovy-system",
-    "text": "Zajistit finančně udržitelný a spravedlivý důchodový systém",
+    "text": "Zajistit udržitelný důchodový systém — každý odpracovaný rok navíc zvýší důchod o 1,5 % vyměřovacího základu",
     "category": "Sociální politika a zaměstnanost",
     "priority": "vysoká",
     "sources": [
@@ -1021,7 +1021,7 @@
   },
   {
     "id": "soc-dostupnost-socialnich-sluzeb",
-    "text": "Posílit dostupnost sociálních služeb",
+    "text": "Rozšířit kapacity zařízení dlouhodobé péče a rozvíjet terénní a ambulantní sociální služby",
     "category": "Sociální politika a zaměstnanost",
     "priority": "vysoká",
     "sources": [
@@ -1033,7 +1033,7 @@
   },
   {
     "id": "soc-pece-o-seniory-a-ozp",
-    "text": "Zlepšit péči o seniory a osoby se zdravotním postižením",
+    "text": "Zavést hmotné zabezpečení pro neformální pečující a rozšířit síť odlehčovacích služeb",
     "category": "Sociální politika a zaměstnanost",
     "priority": "vysoká",
     "sources": [
@@ -1045,7 +1045,7 @@
   },
   {
     "id": "soc-revize-davek",
-    "text": "Provést revizi systému sociálních dávek a zabránit zneužívání",
+    "text": "Zrevidovat „superdávku“ a zintenzivnit kontrolu zneužívání dávek a obchodu s chudobou",
     "category": "Sociální politika a zaměstnanost",
     "priority": "vysoká",
     "sources": [
@@ -1057,7 +1057,7 @@
   },
   {
     "id": "soc-motivace-k-praci",
-    "text": "Zvýšit motivaci k práci a aktivnímu zapojení do společnosti",
+    "text": "Zavést přiměřenou pracovní povinnost pro dlouhodobé příjemce dávek a posílit boj proti práci načerno",
     "category": "Sociální politika a zaměstnanost",
     "priority": "nízká",
     "sources": [
@@ -1069,7 +1069,7 @@
   },
   {
     "id": "soc-slad-prace-a-rodiny",
-    "text": "Podpořit rovnováhu mezi pracovním a rodinným životem",
+    "text": "Podpořit flexibilní pracovní úvazky pro rodiče, seniory a zdravotně znevýhodněné",
     "category": "Sociální politika a zaměstnanost",
     "priority": "nízká",
     "sources": [
@@ -1081,7 +1081,7 @@
   },
   {
     "id": "soc-rodicovsky-prispevek-400k",
-    "text": "Zvýšit rodičovský příspěvek na 400 000 Kč",
+    "text": "Zvýšit rodičovský příspěvek na 400 000 Kč s možností flexibilního čerpání",
     "category": "Sociální politika a zaměstnanost",
     "priority": "vysoká",
     "sources": [
@@ -1105,7 +1105,7 @@
   },
   {
     "id": "zdrav-cekaci-lhuty",
-    "text": "Zkrátit čekací lhůty na vyšetření a zákroky",
+    "text": "Zavést národní monitoring čekacích dob na vyšetření a zákroky přes povinnou e-žádanku",
     "category": "Zdravotnictví",
     "priority": "vysoká",
     "sources": [
@@ -1117,7 +1117,7 @@
   },
   {
     "id": "zdrav-dostupnost-leku",
-    "text": "Zajistit dostupnost léků",
+    "text": "Zajistit dostupnost léků rezervními zásobami a tvrdým postihem nedovolených reexportů",
     "category": "Zdravotnictví",
     "priority": "vysoká",
     "sources": [
@@ -1129,7 +1129,7 @@
   },
   {
     "id": "zdrav-prevence-onko-kardio",
-    "text": "Posílit prevenci nádorových a kardiovaskulárních onemocnění",
+    "text": "Implementovat Národní onkologický plán a Národní kardiovaskulární plán",
     "category": "Zdravotnictví",
     "priority": "vysoká",
     "sources": [
@@ -1141,7 +1141,7 @@
   },
   {
     "id": "zdrav-dusevni-zdravi",
-    "text": "Věnovat zvláštní pozornost duševnímu zdraví",
+    "text": "Obnovit reformu péče o duševní zdraví a vytvořit síť krizových služeb",
     "category": "Zdravotnictví",
     "priority": "vysoká",
     "sources": [
@@ -1153,7 +1153,7 @@
   },
   {
     "id": "zdrav-modernizace-nemocnic",
-    "text": "Modernizovat nemocnice a zdravotnické vybavení",
+    "text": "Investovat do modernizace nemocnic a vytvořit regionální nemocniční sítě s vyšší mírou spolupráce",
     "category": "Zdravotnictví",
     "priority": "vysoká",
     "sources": [
@@ -1165,7 +1165,7 @@
   },
   {
     "id": "zdrav-digitalizace",
-    "text": "Digitalizovat zdravotnictví",
+    "text": "Zavést elektronizaci zdravotnictví se sdílením dat a přístupem pacientů k vlastním záznamům",
     "category": "Zdravotnictví",
     "priority": "vysoká",
     "sources": [
@@ -1177,7 +1177,7 @@
   },
   {
     "id": "zdrav-personalni-stabilita",
-    "text": "Posílit personální stabilitu ve zdravotnických profesích",
+    "text": "Navýšit kapacity lékařských fakult a rezidenčních míst a motivovat mladé lékaře k práci v regionech",
     "category": "Zdravotnictví",
     "priority": "vysoká",
     "sources": [
@@ -1189,7 +1189,7 @@
   },
   {
     "id": "zdrav-podminky-zdravotniku",
-    "text": "Zlepšit podmínky pro lékaře a zdravotníky",
+    "text": "Odlehčit zdravotníkům od administrativy a posílit kompetence nelékařských pracovníků",
     "category": "Zdravotnictví",
     "priority": "vysoká",
     "sources": [
@@ -1213,7 +1213,7 @@
   },
   {
     "id": "zdrav-fakultni-nemocnice-praha",
-    "text": "Zahájit výstavbu nové fakultní nemocnice v Praze",
+    "text": "Zahájit výstavbu nové, supermoderní fakultní nemocnice v Praze, která nahradí nevyhovující areály",
     "category": "Zdravotnictví",
     "priority": "vysoká",
     "sources": [
@@ -1225,7 +1225,7 @@
   },
   {
     "id": "zem-potravinova-sobestacnost",
-    "text": "Podpořit soběstačnost v potravinách",
+    "text": "Zvýšit potravinovou soběstačnost omezením marží řetězců, bráněním levným dovozům a zřízením potravinového ombudsmana",
     "category": "Zemědělství",
     "priority": "vysoká",
     "sources": [
@@ -1237,7 +1237,7 @@
   },
   {
     "id": "zem-ferove-podminky",
-    "text": "Zajistit férové podmínky pro české zemědělce",
+    "text": "Prosazovat spravedlivé podmínky pro české zemědělce a spotřebitele v rámci EU pro období 2028–2034",
     "category": "Zemědělství",
     "priority": "vysoká",
     "sources": [
@@ -1261,7 +1261,7 @@
   },
   {
     "id": "zem-byrokracie",
-    "text": "Snížit byrokracii v zemědělství",
+    "text": "Snížit byrokracii v zemědělství omezením počtu kontrol a zrušením nepřesného vymezení erozních oblastí",
     "category": "Zemědělství",
     "priority": "vysoká",
     "sources": [
@@ -1273,7 +1273,7 @@
   },
   {
     "id": "zem-ochrana-pudy",
-    "text": "Chránit zemědělskou půdu před nezemědělským využitím",
+    "text": "Zabránit spekulacím se zemědělskou půdou a zpřísnit pravidla pro její vynětí ze zemědělského fondu",
     "category": "Zemědělství",
     "priority": "vysoká",
     "sources": [
@@ -1285,7 +1285,7 @@
   },
   {
     "id": "zem-mladi-zemedelci",
-    "text": "Podpořit mladé zemědělce",
+    "text": "Posílit generační obměnu v zemědělství a snížit náklady aktivních zemědělců daňovými opatřeními",
     "category": "Zemědělství",
     "priority": "nízká",
     "sources": [
@@ -1309,7 +1309,7 @@
   },
   {
     "id": "zivpr-opatreni-proti-suchu",
-    "text": "Provést účinná opatření proti suchu",
+    "text": "Urychlit výstavbu vodních nádrží (Nové Heřminovy, Vlachovice, Skalička) a retenčních opatření proti suchu",
     "category": "Životní prostředí",
     "priority": "vysoká",
     "sources": [
@@ -1321,7 +1321,7 @@
   },
   {
     "id": "zivpr-lesy-a-voda-v-krajine",
-    "text": "Obnovit lesy a podpořit zadržování vody v krajině",
+    "text": "Podpořit zadržování vody remízky, větrolamy a malými vodními nádržemi a zvýšit podíl listnáčů v lesích",
     "category": "Životní prostředí",
     "priority": "vysoká",
     "sources": [
@@ -1333,7 +1333,7 @@
   },
   {
     "id": "zivpr-ochrana-zvirat",
-    "text": "Posílit ochranu zvířat a zlepšit podmínky pro jejich život",
+    "text": "Zpřísnit tresty za týrání a nelegální množení zvířat a zakázat norování",
     "category": "Životní prostředí",
     "priority": "nízká",
     "sources": [
@@ -1345,7 +1345,7 @@
   },
   {
     "id": "zivpr-cista-energie",
-    "text": "Podpořit čistou energii a snížit emise",
+    "text": "Prosadit realistický energetický mix (jádro, obnovitelné zdroje, uhlí i plyn) místo rychlé dekarbonizace",
     "category": "Životní prostředí",
     "priority": "vysoká",
     "sources": [
@@ -1357,7 +1357,7 @@
   },
   {
     "id": "zivpr-odpady-a-recyklace",
-    "text": "Zlepšit nakládání s odpady a podporu recyklace",
+    "text": "Podpořit zařízení pro energetické využití odpadu (ZEVO) a zachovat zákaz skládkování po roce 2030",
     "category": "Životní prostředí",
     "priority": "nízká",
     "sources": [
@@ -1381,7 +1381,7 @@
   },
   {
     "id": "kult-financovani-kultury",
-    "text": "Zajistit stabilní financování kultury",
+    "text": "Připravit víceletý finanční plán na podporu kultury, obnovu památek a kulturní zařízení",
     "category": "Kultura",
     "priority": "nízká",
     "sources": [
@@ -1393,7 +1393,7 @@
   },
   {
     "id": "kult-regionalni-instituce",
-    "text": "Podpořit regionální kulturní instituce",
+    "text": "Propojit památkovou ochranu a kulturní aktivity s regiony, obcemi a spolky",
     "category": "Kultura",
     "priority": "nízká",
     "sources": [
@@ -1405,7 +1405,7 @@
   },
   {
     "id": "kult-kulturni-dedictvi",
-    "text": "Chránit kulturní dědictví",
+    "text": "Obnovit památky a dokončit projekty jako Novou scénu Národního divadla či Janáčkovo kulturní centrum v Brně",
     "category": "Kultura",
     "priority": "nízká",
     "sources": [
@@ -1417,7 +1417,7 @@
   },
   {
     "id": "kult-ziva-kultura",
-    "text": "Podpořit živou kulturu a nezávislé umělce",
+    "text": "Podpořit filmové pobídky a tvorbu kreativních tvůrců, včetně videoher a animovaných projektů",
     "category": "Kultura",
     "priority": "nízká",
     "sources": [
@@ -1429,7 +1429,7 @@
   },
   {
     "id": "kult-dostupnost-vsem-generacim",
-    "text": "Zpřístupnit kulturu všem generacím",
+    "text": "Zavést systém slev na kulturní aktivity pro širokou veřejnost",
     "category": "Kultura",
     "priority": "nízká",
     "sources": [
@@ -1465,7 +1465,7 @@
   },
   {
     "id": "kult-vltavska-filharmonie",
-    "text": "Dokončit Vltavskou filharmonii v Praze",
+    "text": "Podpořit výstavbu budovy Vltavské filharmonie v Praze",
     "category": "Kultura",
     "priority": "nízká",
     "sources": [
@@ -1477,7 +1477,7 @@
   },
   {
     "id": "kult-platy-pracovniku-v-kulture",
-    "text": "Zvýšit platy pracovníků v kultuře",
+    "text": "Výrazně zvýšit platy pracovníků v kultuře, kteří patří k nejhůře odměňovaným profesím ve veřejném sektoru",
     "category": "Kultura",
     "priority": "nízká",
     "sources": [
@@ -1489,7 +1489,7 @@
   },
   {
     "id": "byd-zrychleni-stavebniho-rizeni",
-    "text": "Zrychlit a zjednodušit stavební řízení",
+    "text": "Zjednodušit stavební řízení novým stavebním zákonem a zařadit bytové komplexy mezi strategické stavby",
     "category": "Bydlení a regionální rozvoj",
     "priority": "vysoká",
     "sources": [
@@ -1501,7 +1501,7 @@
   },
   {
     "id": "byd-najemni-a-druzstevni-byty",
-    "text": "Podpořit výstavbu nájemních a družstevních bytů",
+    "text": "Zavést státní garance pro družstva a daňové úlevy pro investory do nájemního a družstevního bydlení",
     "category": "Bydlení a regionální rozvoj",
     "priority": "vysoká",
     "sources": [
@@ -1513,7 +1513,7 @@
   },
   {
     "id": "byd-podpora-mladych-rodin",
-    "text": "Zajistit státní podporu financování bydlení pro mladé rodiny",
+    "text": "Zajistit zvýhodněnou půjčku na akontaci a státní podporu úroků z hypotéky pro mladé rodiny s dítětem do 6 let",
     "category": "Bydlení a regionální rozvoj",
     "priority": "vysoká",
     "sources": [
@@ -1525,7 +1525,7 @@
   },
   {
     "id": "byd-studentske-koleje",
-    "text": "Podpořit výstavbu studentských kolejí",
+    "text": "Podpořit výstavbu studentských kolejí spoluprací státu, univerzit, měst a soukromého sektoru",
     "category": "Bydlení a regionální rozvoj",
     "priority": "nízká",
     "sources": [
@@ -1537,7 +1537,7 @@
   },
   {
     "id": "byd-byty-pro-seniory",
-    "text": "Podpořit výstavbu bytů pro seniory",
+    "text": "Podpořit výstavbu bytů pro seniory prostřednictvím Státního fondu podpory investic",
     "category": "Bydlení a regionální rozvoj",
     "priority": "nízká",
     "sources": [
@@ -1561,7 +1561,7 @@
   },
   {
     "id": "byd-vyrovnani-regionalnich-rozdilu",
-    "text": "Vyrovnat rozdíly mezi regiony",
+    "text": "Podpořit hospodářsky ohrožená území a transformaci uhelných regionů",
     "category": "Bydlení a regionální rozvoj",
     "priority": "nízká",
     "sources": [
@@ -1585,7 +1585,7 @@
   },
   {
     "id": "sport-dostupnost-pohybovych-aktivit",
-    "text": "Zajistit rozvoj sportu a dostupnost pohybových aktivit pro všechny generace",
+    "text": "Vytvořit síť nízkoprahových hřišť a rozšířit pohybové programy pro seniory a hendikepované",
     "category": "Sport, prevence a zdraví",
     "priority": "nízká",
     "sources": [
@@ -1597,7 +1597,7 @@
   },
   {
     "id": "sport-sportovni-infrastruktura",
-    "text": "Modernizovat sportovní infrastrukturu",
+    "text": "Navýšit investice do obnovy sportovišť s důrazem na multifunkční a bezbariérové prostory",
     "category": "Sport, prevence a zdraví",
     "priority": "nízká",
     "sources": [
@@ -1609,7 +1609,7 @@
   },
   {
     "id": "sport-mladeznicky-sport",
-    "text": "Podpořit mládežnický sport",
+    "text": "Zavést dotační program pro školní sportovní kluby a projekty Trenéři do škol a školek",
     "category": "Sport, prevence a zdraví",
     "priority": "nízká",
     "sources": [
@@ -1621,7 +1621,7 @@
   },
   {
     "id": "sport-prevence-civilizacnich-chorob",
-    "text": "Posílit prevenci civilizačních chorob",
+    "text": "Vytvořit jednotný rámec prevence obezity, diabetu a závislostí (alkohol, tabák, hazard, digitální závislosti)",
     "category": "Sport, prevence a zdraví",
     "priority": "vysoká",
     "sources": [
@@ -1633,7 +1633,7 @@
   },
   {
     "id": "sport-vrcholovy-sport",
-    "text": "Zajistit podporu vrcholového sportu",
+    "text": "Definovat právní postavení vrcholových sportovců a finančně podpořit bývalé olympioniky v důchodu",
     "category": "Sport, prevence a zdraví",
     "priority": "nízká",
     "sources": [
@@ -1657,7 +1657,7 @@
   },
   {
     "id": "veda-propojeni-s-praxi",
-    "text": "Propojit akademickou sféru s praxí",
+    "text": "Propojit akademickou a podnikatelskou sféru motivačními programy pro společné výzkumné projekty",
     "category": "Věda, výzkum a inovace",
     "priority": "vysoká",
     "sources": [
@@ -1669,7 +1669,7 @@
   },
   {
     "id": "veda-startupy",
-    "text": "Podpořit start-upy a technologické firmy",
+    "text": "Připravit zákon o podpoře startupů se zjednodušeným podnikáním a zaměstnaneckými akciemi",
     "category": "Věda, výzkum a inovace",
     "priority": "vysoká",
     "sources": [
@@ -1681,7 +1681,7 @@
   },
   {
     "id": "veda-podminky-pro-vyzkumniky",
-    "text": "Zajistit lepší podmínky pro vědce a výzkumníky",
+    "text": "Usnadnit příchod zahraničních vědců odstraněním administrativních bariér a zrychleným uznáním kvalifikace",
     "category": "Věda, výzkum a inovace",
     "priority": "nízká",
     "sources": [
@@ -1693,7 +1693,7 @@
   },
   {
     "id": "veda-zruseni-ministra-pro-vedu",
-    "text": "Zrušit funkci ministra pro vědu",
+    "text": "Zrušit funkci ministra pro vědu, agendu povede předseda vlády nebo vicepremiér",
     "category": "Věda, výzkum a inovace",
     "priority": "nízká",
     "sources": [
@@ -1705,7 +1705,7 @@
   },
   {
     "id": "dig-digitalizace-statni-spravy",
-    "text": "Digitalizovat státní správu",
+    "text": "Zavést princip „jednou a dost“ a jednotnou digitální bránu pro státní služby",
     "category": "Digitalizace",
     "priority": "vysoká",
     "sources": [
@@ -1717,7 +1717,7 @@
   },
   {
     "id": "dig-snizeni-administrativni-zateze",
-    "text": "Snížit administrativní zátěž prostřednictvím digitalizace",
+    "text": "Snížit počet kroků a formulářů ve státních službách místo pouhého přesunu byrokracie do elektronické podoby",
     "category": "Digitalizace",
     "priority": "vysoká",
     "sources": [
@@ -1729,7 +1729,7 @@
   },
   {
     "id": "dig-kyberneticka-bezpecnost",
-    "text": "Zajistit kybernetickou bezpečnost",
+    "text": "Posílit pravomoci NÚKIB k preventivnímu ověřování bezpečnosti státních digitálních systémů",
     "category": "Digitalizace",
     "priority": "vysoká",
     "sources": [
@@ -1741,7 +1741,7 @@
   },
   {
     "id": "dig-digitalni-infrastruktura",
-    "text": "Podpořit rozvoj digitální infrastruktury",
+    "text": "Vytvořit propojený datový ekosystém s otevřenými rozhraními (Propojený datový fond)",
     "category": "Digitalizace",
     "priority": "vysoká",
     "sources": [
