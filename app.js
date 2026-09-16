@@ -66,14 +66,14 @@ function renderCard(p) {
   const statusNote = p.statusNote
     ? `<p class="pledge-status-note">${escapeHtml(p.statusNote)}</p>`
     : '';
-  const checked = p.status === 'splněno' ? 'checked' : '';
   const statusLabel = { 'čekající': 'Čekající', 'nesplněno': 'Nesplněno', 'splněno': 'Splněno' }[p.status];
+  const statusIcon = { 'čekající': '?', 'nesplněno': '✕', 'splněno': '✓' }[p.status];
   return `
     <div class="pledge-card">
-      <label class="pledge-row">
-        <input type="checkbox" disabled ${checked}>
+      <div class="pledge-row">
+        <span class="pledge-status-icon pledge-status-icon-${p.status}" role="img" aria-label="${statusLabel}">${statusIcon}</span>
         <span class="pledge-text">${escapeHtml(p.text)}</span>
-      </label>
+      </div>
       <div class="pledge-badges">
         <span class="badge badge-category">${escapeHtml(p.category)}</span>
         <span class="badge badge-priority badge-priority-${p.priority}">${p.priority === 'vysoká' ? 'Vysoká priorita' : 'Nízká priorita'}</span>

@@ -83,7 +83,23 @@ header h1 { margin-bottom: 4px; font-size: 1.75rem; }
 }
 .pledge-row { display: flex; align-items: flex-start; gap: 10px; }
 .pledge-text { font-size: 0.95rem; }
-.pledge-badges { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 0 26px; }
+.pledge-status-icon {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  margin-top: 1px;
+  border-radius: 50%;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1;
+}
+.pledge-status-icon-čekající { background: var(--badge-status-cekajici-bg); color: var(--badge-status-cekajici-text); }
+.pledge-status-icon-nesplněno { background: var(--badge-status-nesplneno-bg); color: var(--badge-status-nesplneno-text); }
+.pledge-status-icon-splněno { background: var(--badge-status-splneno-bg); color: var(--badge-status-splneno-text); }
+.pledge-badges { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 0 28px; }
 .badge {
   display: inline-block;
   padding: 3px 10px;
@@ -97,13 +113,13 @@ header h1 { margin-bottom: 4px; font-size: 1.75rem; }
 .badge-status-nesplněno { background: var(--badge-status-nesplneno-bg); color: var(--badge-status-nesplneno-text); }
 .badge-status-splněno { background: var(--badge-status-splneno-bg); color: var(--badge-status-splneno-text); }
 .pledge-extra {
-  margin: 8px 0 0 26px;
+  margin: 8px 0 0 28px;
   font-size: 0.85rem;
   font-style: italic;
   color: var(--muted);
 }
 .pledge-status-note {
-  margin: 8px 0 0 26px;
+  margin: 8px 0 0 28px;
   font-size: 0.85rem;
   color: var(--badge-status-nesplneno-text);
 }
