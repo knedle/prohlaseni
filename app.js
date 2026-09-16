@@ -63,6 +63,9 @@ function renderCard(p) {
   const extra = p.draftExtra
     ? `<p class="pledge-extra">Z návrhu, nedostalo se do finální verze: „${escapeHtml(p.draftExtra)}“</p>`
     : '';
+  const statusNote = p.statusNote
+    ? `<p class="pledge-status-note">${escapeHtml(p.statusNote)}</p>`
+    : '';
   const checked = p.status === 'splněno' ? 'checked' : '';
   const statusLabel = { 'čekající': 'Čekající', 'nesplněno': 'Nesplněno', 'splněno': 'Splněno' }[p.status];
   return `
@@ -77,6 +80,7 @@ function renderCard(p) {
         <span class="badge badge-status badge-status-${p.status}">${statusLabel}</span>
       </div>
       ${extra}
+      ${statusNote}
     </div>
   `;
 }
