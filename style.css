@@ -8,10 +8,6 @@
   --badge-priority-high-text: #ffffff;
   --badge-priority-low-bg: #eeeeee;
   --badge-priority-low-text: #333333;
-  --badge-source-navrh-bg: #fde68a;
-  --badge-source-navrh-text: #7c4a03;
-  --badge-source-final-bg: #bfdbfe;
-  --badge-source-final-text: #1e3a8a;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -37,6 +33,8 @@ body {
 
 header h1 { margin-bottom: 4px; font-size: 1.75rem; }
 .subtitle { color: var(--muted); margin-top: 0; }
+.source-links { color: var(--muted); font-size: 0.85rem; margin: 4px 0 0; }
+.source-links a { color: inherit; }
 
 .counter {
   display: flex;
@@ -87,8 +85,6 @@ header h1 { margin-bottom: 4px; font-size: 1.75rem; }
 }
 .badge-priority-vysoká { background: var(--badge-priority-high-bg); color: var(--badge-priority-high-text); }
 .badge-priority-nízká { background: var(--badge-priority-low-bg); color: var(--badge-priority-low-text); }
-.badge-source-navrh { background: var(--badge-source-navrh-bg); color: var(--badge-source-navrh-text); }
-.badge-source-final { background: var(--badge-source-final-bg); color: var(--badge-source-final-text); }
 .pledge-extra {
   margin: 8px 0 0 26px;
   font-size: 0.85rem;
