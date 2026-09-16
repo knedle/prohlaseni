@@ -6,6 +6,7 @@ async function init() {
   pledges = await res.json();
   populateCategoryFilter();
   attachFilterHandlers();
+  attachBadgeFilterHandler();
   render();
 }
 
@@ -31,6 +32,18 @@ function attachFilterHandlers() {
   });
   document.getElementById('filter-status').addEventListener('change', e => {
     filters.status = e.target.value;
+    render();
+  });
+}
+
+function attachBadgeFilterHandler() {
+  document.getElementById('pledge-list').addEventListener('click', e => {
+    const badge = e.target.closest('[data-filter-type]');
+    if (!badge) return;
+    const type = badge.dataset.filterType;
+    const value = badge.dataset.filterValue;
+    filters[type] = value;
+    document.getElementById(`filter-${type}`).value = value;
     render();
   });
 }
@@ -75,9 +88,9 @@ function renderCard(p) {
         <span class="pledge-text">${escapeHtml(p.text)}</span>
       </div>
       <div class="pledge-badges">
-        <span class="badge badge-category">${escapeHtml(p.category)}</span>
-        <span class="badge badge-priority badge-priority-${p.priority}">${p.priority === 'vysoká' ? 'Vysoká priorita' : 'Nízká priorita'}</span>
-        <span class="badge badge-status badge-status-${p.status}">${statusLabel}</span>
+        <span class="badge badge-category" data-filter-type="category" data-filter-value="${escapeHtml(p.category)}">${escapeHtml(p.category)}</span>
+        <span class="badge badge-priority badge-priority-${p.priority}" data-filter-type="priority" data-filter-value="${p.priority}">${p.priority === 'vysoká' ? 'Vysoká priorita' : 'Nízká priorita'}</span>
+        <span class="badge badge-status badge-status-${p.status}" data-filter-type="status" data-filter-value="${p.status}">${statusLabel}</span>
       </div>
       ${extra}
       ${statusNote}

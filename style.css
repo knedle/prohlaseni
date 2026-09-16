@@ -107,6 +107,15 @@ header h1 { margin-bottom: 4px; font-size: 1.75rem; }
   font-size: 0.75rem;
   background: var(--badge-bg);
 }
+.badge[data-filter-type] {
+  cursor: pointer;
+  border: none;
+  font: inherit;
+}
+.badge[data-filter-type]:hover {
+  filter: brightness(0.92);
+  text-decoration: underline;
+}
 .badge-priority-vysoká { background: var(--badge-priority-high-bg); color: var(--badge-priority-high-text); }
 .badge-priority-nízká { background: var(--badge-priority-low-bg); color: var(--badge-priority-low-text); }
 .badge-status-čekající { background: var(--badge-status-cekajici-bg); color: var(--badge-status-cekajici-text); }
