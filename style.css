@@ -8,6 +8,12 @@
   --badge-priority-high-text: #ffffff;
   --badge-priority-low-bg: #eeeeee;
   --badge-priority-low-text: #333333;
+  --badge-status-cekajici-bg: #eeeeee;
+  --badge-status-cekajici-text: #555555;
+  --badge-status-nesplneno-bg: #fee2e2;
+  --badge-status-nesplneno-text: #991b1b;
+  --badge-status-splneno-bg: #dcfce7;
+  --badge-status-splneno-text: #166534;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -38,12 +44,14 @@ header h1 { margin-bottom: 4px; font-size: 1.75rem; }
 
 .counter {
   display: flex;
-  gap: 12px;
+  flex-wrap: wrap;
+  gap: 4px 12px;
   align-items: baseline;
   margin: 16px 0;
   font-weight: 600;
 }
 .counter #counter-pct { color: var(--muted); font-weight: 400; }
+.counter-breakdown { color: var(--muted); font-weight: 400; font-size: 0.85rem; }
 
 .filters {
   border: 1px solid var(--border);
@@ -85,6 +93,9 @@ header h1 { margin-bottom: 4px; font-size: 1.75rem; }
 }
 .badge-priority-vysoká { background: var(--badge-priority-high-bg); color: var(--badge-priority-high-text); }
 .badge-priority-nízká { background: var(--badge-priority-low-bg); color: var(--badge-priority-low-text); }
+.badge-status-čekající { background: var(--badge-status-cekajici-bg); color: var(--badge-status-cekajici-text); }
+.badge-status-nesplněno { background: var(--badge-status-nesplneno-bg); color: var(--badge-status-nesplneno-text); }
+.badge-status-splněno { background: var(--badge-status-splneno-bg); color: var(--badge-status-splneno-text); }
 .pledge-extra {
   margin: 8px 0 0 26px;
   font-size: 0.85rem;

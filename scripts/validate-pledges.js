@@ -48,7 +48,7 @@ pledges.forEach((p, i) => {
     errors.push(`${where}: invalid sources entries`);
   }
   if (p.draftExtra !== null && typeof p.draftExtra !== 'string') errors.push(`${where}: draftExtra must be string or null`);
-  if (!['splněno', 'nesplněno'].includes(p.status)) errors.push(`${where}: invalid status "${p.status}"`);
+  if (!['splněno', 'nesplněno', 'čekající'].includes(p.status)) errors.push(`${where}: invalid status "${p.status}"`);
 });
 
 const refKey = e => `${e.text}||${e.category}`;

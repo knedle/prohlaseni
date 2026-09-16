@@ -19,6 +19,11 @@
   <div class="counter">
     <span id="counter-text">0 / 0 splněno</span>
     <span id="counter-pct">0 %</span>
+    <span class="counter-breakdown">
+      (<span id="counter-cekajici">0</span> čekající ·
+      <span id="counter-nesplneno">0</span> nesplněno ·
+      <span id="counter-splneno">0</span> splněno)
+    </span>
   </div>
 </header>
 
@@ -43,8 +48,9 @@
       <label for="filter-status">Stav splnění</label>
       <select id="filter-status">
         <option value="all">Vše</option>
-        <option value="splněno">Splněno</option>
+        <option value="čekající">Čekající</option>
         <option value="nesplněno">Nesplněno</option>
+        <option value="splněno">Splněno</option>
       </select>
     </div>
   </div>

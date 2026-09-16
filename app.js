@@ -48,10 +48,15 @@ function render() {
   list.innerHTML = visible.map(renderCard).join('');
 
   const done = pledges.filter(p => p.status === 'splněno').length;
+  const failed = pledges.filter(p => p.status === 'nesplněno').length;
+  const waiting = pledges.filter(p => p.status === 'čekající').length;
   const total = pledges.length;
   const pct = total === 0 ? 0 : Math.round((done / total) * 100);
   document.getElementById('counter-text').textContent = `${done} / ${total} splněno`;
   document.getElementById('counter-pct').textContent = `${pct} %`;
+  document.getElementById('counter-cekajici').textContent = waiting;
+  document.getElementById('counter-nesplneno').textContent = failed;
+  document.getElementById('counter-splneno').textContent = done;
 }
 
 function renderCard(p) {
@@ -59,6 +64,7 @@ function renderCard(p) {
     ? `<p class="pledge-extra">Z návrhu, nedostalo se do finální verze: „${escapeHtml(p.draftExtra)}“</p>`
     : '';
   const checked = p.status === 'splněno' ? 'checked' : '';
+  const statusLabel = { 'čekající': 'Čekající', 'nesplněno': 'Nesplněno', 'splněno': 'Splněno' }[p.status];
   return `
     <div class="pledge-card">
       <label class="pledge-row">
@@ -68,6 +74,7 @@ function renderCard(p) {
       <div class="pledge-badges">
         <span class="badge badge-category">${escapeHtml(p.category)}</span>
         <span class="badge badge-priority badge-priority-${p.priority}">${p.priority === 'vysoká' ? 'Vysoká priorita' : 'Nízká priorita'}</span>
+        <span class="badge badge-status badge-status-${p.status}">${statusLabel}</span>
       </div>
       ${extra}
     </div>
