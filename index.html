@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Programové prohlášení vlády — sledování plnění</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Programové prohlášení vlády České republiky</h1>
+  <p class="subtitle">Sledování plnění bodů z návrhu (listopad 2025) a finální verze (leden 2026)</p>
+  <div class="counter">
+    <span id="counter-text">0 / 0 splněno</span>
+    <span id="counter-pct">0 %</span>
+  </div>
+</header>
+
+<section class="filters">
+  <h2>Filtry</h2>
+  <div class="filter-row">
+    <div class="filter-group">
+      <label for="filter-category">Kategorie</label>
+      <select id="filter-category">
+        <option value="all">Všechny kategorie</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="filter-priority">Priorita</label>
+      <select id="filter-priority">
+        <option value="all">Všechny priority</option>
+        <option value="vysoká">Vysoká důležitost</option>
+        <option value="nízká">Nízká důležitost</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="filter-status">Stav splnění</label>
+      <select id="filter-status">
+        <option value="all">Vše</option>
+        <option value="splněno">Splněno</option>
+        <option value="nesplněno">Nesplněno</option>
+      </select>
+    </div>
+  </div>
+</section>
+
+<main id="pledge-list"></main>
+
+<script src="app.js"></script>
+</body>
+</html>
