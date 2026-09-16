@@ -50,6 +50,7 @@ pledges.forEach((p, i) => {
   if (p.draftExtra !== null && typeof p.draftExtra !== 'string') errors.push(`${where}: draftExtra must be string or null`);
   if (!['splněno', 'nesplněno', 'čekající'].includes(p.status)) errors.push(`${where}: invalid status "${p.status}"`);
   if (p.statusNote !== null && typeof p.statusNote !== 'string') errors.push(`${where}: statusNote must be string or null`);
+  if (typeof p.statusQuo !== 'boolean') errors.push(`${where}: statusQuo must be boolean`);
 });
 
 // Note: pledge `text` is intentionally rewritten from the source PDFs to be more

@@ -1,5 +1,5 @@
 let pledges = [];
-const filters = { category: 'all', priority: 'all', status: 'all' };
+const filters = { category: 'all', priority: 'all', status: 'all', statusquo: 'all' };
 
 async function init() {
   const res = await fetch('data/pledges.json');
@@ -34,6 +34,10 @@ function attachFilterHandlers() {
     filters.status = e.target.value;
     render();
   });
+  document.getElementById('filter-statusquo').addEventListener('change', e => {
+    filters.statusquo = e.target.value;
+    render();
+  });
 }
 
 function attachBadgeFilterHandler() {
@@ -52,6 +56,7 @@ function matchesFilters(pledge) {
   if (filters.category !== 'all' && pledge.category !== filters.category) return false;
   if (filters.priority !== 'all' && pledge.priority !== filters.priority) return false;
   if (filters.status !== 'all' && pledge.status !== filters.status) return false;
+  if (filters.statusquo !== 'all' && String(pledge.statusQuo) !== filters.statusquo) return false;
   return true;
 }
 
@@ -81,6 +86,9 @@ function renderCard(p) {
     : '';
   const statusLabel = { 'čekající': 'Čekající', 'nesplněno': 'Nesplněno', 'splněno': 'Splněno' }[p.status];
   const statusIcon = { 'čekající': '?', 'nesplněno': '✕', 'splněno': '✓' }[p.status];
+  const statusQuoBadge = p.statusQuo
+    ? `<span class="badge badge-statusquo" data-filter-type="statusquo" data-filter-value="true">Status quo</span>`
+    : '';
   return `
     <div class="pledge-card">
       <div class="pledge-row">
@@ -91,6 +99,7 @@ function renderCard(p) {
         <span class="badge badge-category" data-filter-type="category" data-filter-value="${escapeHtml(p.category)}">${escapeHtml(p.category)}</span>
         <span class="badge badge-priority badge-priority-${p.priority}" data-filter-type="priority" data-filter-value="${p.priority}">${p.priority === 'vysoká' ? 'Vysoká priorita' : 'Nízká priorita'}</span>
         <span class="badge badge-status badge-status-${p.status}" data-filter-type="status" data-filter-value="${p.status}">${statusLabel}</span>
+        ${statusQuoBadge}
       </div>
       ${extra}
       ${statusNote}

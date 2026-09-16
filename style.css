@@ -14,6 +14,8 @@
   --badge-status-nesplneno-text: #991b1b;
   --badge-status-splneno-bg: #dcfce7;
   --badge-status-splneno-text: #166534;
+  --badge-statusquo-bg: #ede9fe;
+  --badge-statusquo-text: #5b21b6;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -121,6 +123,7 @@ header h1 { margin-bottom: 4px; font-size: 1.75rem; }
 .badge-status-čekající { background: var(--badge-status-cekajici-bg); color: var(--badge-status-cekajici-text); }
 .badge-status-nesplněno { background: var(--badge-status-nesplneno-bg); color: var(--badge-status-nesplneno-text); }
 .badge-status-splněno { background: var(--badge-status-splneno-bg); color: var(--badge-status-splneno-text); }
+.badge-statusquo { background: var(--badge-statusquo-bg); color: var(--badge-statusquo-text); }
 .pledge-extra {
   margin: 8px 0 0 28px;
   font-size: 0.85rem;

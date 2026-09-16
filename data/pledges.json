@@ -10,7 +10,8 @@
     ],
     "draftExtra": null,
     "status": "nesplněno",
-    "statusNote": "Ministerstvo financí ve vlastní rozpočtové dokumentaci odhaduje schodek veřejných financí pro rok 2027 na 3,5 % HDP; Národní rozpočtová rada (analýza ze září 2026) odhaduje při zohlednění všech rozpočtových předpokladů deficit kolem 3,7 % HDP — oba odhady přesahují slíbenou 3% hranici."
+    "statusNote": "Ministerstvo financí ve vlastní rozpočtové dokumentaci odhaduje schodek veřejných financí pro rok 2027 na 3,5 % HDP; Národní rozpočtová rada (analýza ze září 2026) odhaduje při zohlednění všech rozpočtových předpokladů deficit kolem 3,7 % HDP — oba odhady přesahují slíbenou 3% hranici.",
+    "statusQuo": false
   },
   {
     "id": "fin-eet2",
@@ -23,7 +24,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-digitalni-danova-kobra",
@@ -36,7 +38,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-celni-sprava",
@@ -49,7 +52,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-dppo-19",
@@ -62,7 +66,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-dan-z-nemovitosti",
@@ -75,7 +80,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-dph-leky",
@@ -88,7 +94,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-osvc-vymerovaci-zaklad",
@@ -101,7 +108,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-sleva-studenti",
@@ -114,7 +122,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-skolkovne-sleva-manzel",
@@ -127,7 +136,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-sleva-ctvrte-dite",
@@ -140,7 +150,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-volnocasove-benefity",
@@ -153,7 +164,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-dph-vraceni-3-mesice",
@@ -166,7 +178,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-registr-dotaci",
@@ -179,7 +192,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-dph-gastro-12",
@@ -192,7 +206,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-spropitne",
@@ -205,7 +220,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-jednotne-inkasni-misto",
@@ -218,7 +234,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-statni-dluhopisy",
@@ -231,7 +248,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-koruna-v-ustave",
@@ -244,7 +262,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-hotovost-v-ustave",
@@ -257,7 +276,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "fin-nastupni-plat-celniku",
@@ -270,7 +290,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vnitr-nastupni-plat-policie-hasici",
@@ -283,7 +304,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vnitr-sjednoceni-platu-slozek",
@@ -296,7 +318,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vnitr-prispevek-na-bydleni",
@@ -309,7 +332,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vnitr-policejni-sluzebny",
@@ -322,7 +346,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vnitr-policie-v-ulicich",
@@ -335,7 +360,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vnitr-nulova-tolerance-migrace",
@@ -348,7 +374,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vnitr-migracni-pakt-eu",
@@ -361,7 +388,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vnitr-pobyt-cizincu",
@@ -374,7 +402,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vnitr-naborova-centra",
@@ -387,7 +416,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vnitr-nukib",
@@ -400,7 +430,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vnitr-drzitele-zbrani",
@@ -413,7 +444,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": true
   },
   {
     "id": "vnitr-dobrovolni-hasici",
@@ -426,7 +458,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "obr-audit-hospodareni",
@@ -439,7 +472,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "obr-koncepce-acr-2035",
@@ -452,7 +486,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "obr-odmitnuti-armady-eu",
@@ -465,7 +500,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "obr-cesky-prumysl-v-akvizicich",
@@ -478,7 +514,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "obr-modernizace-techniky",
@@ -491,7 +528,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "obr-ochrana-hranic-a-vzdusneho-prostoru",
@@ -504,7 +542,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "obr-platy-vojaku",
@@ -517,7 +556,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zahr-narodni-zajmy-eu-nato",
@@ -530,7 +570,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zahr-suverenita-cr",
@@ -543,7 +584,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zahr-odmitnuti-eura",
@@ -556,7 +598,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": true
   },
   {
     "id": "zahr-ekonomicka-diplomacie",
@@ -569,7 +612,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zahr-ets2",
@@ -582,7 +626,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zahr-zruseni-ministra-pro-eu",
@@ -595,7 +640,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "prav-zrychleni-soudniho-rizeni",
@@ -608,7 +654,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "prav-nezavislost-justice",
@@ -621,7 +668,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "prav-tresty-recidivisti",
@@ -634,7 +682,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "prav-vezenstvi-a-probace",
@@ -647,7 +696,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "prav-ochrana-obeti",
@@ -660,7 +710,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "prav-celostatni-referendum",
@@ -673,7 +724,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "prav-trestny-cin-cizi-moc",
@@ -686,7 +738,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "prav-nastupni-plat-vezenska-sluzba",
@@ -699,7 +752,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "hosp-ceny-energii",
@@ -712,7 +766,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "hosp-ets2",
@@ -725,7 +780,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "hosp-poplatky-za-distribuci",
@@ -738,7 +794,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "hosp-jaderna-energetika",
@@ -751,7 +808,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "hosp-energeticka-bezpecnost",
@@ -764,7 +822,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "hosp-domaci-zdroje-energie",
@@ -777,7 +836,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "hosp-administrativni-zatez",
@@ -790,7 +850,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "hosp-inovace-a-digitalizace-prumyslu",
@@ -803,7 +864,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "hosp-kontrola-nad-vyrobou-cez",
@@ -816,7 +878,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "hosp-dukovany-5-6",
@@ -829,7 +892,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "doprava-dalnicni-sit",
@@ -842,7 +906,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "doprava-vysokorychlostni-trate",
@@ -855,7 +920,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "doprava-modernizace-zeleznice",
@@ -868,7 +934,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "doprava-silnice-2-a-3-tridy",
@@ -881,7 +948,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "doprava-verejna-doprava-v-regionech",
@@ -894,7 +962,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "doprava-stavebni-rizeni",
@@ -907,7 +976,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "doprava-spalovaci-motory-2035",
@@ -920,7 +990,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "doprava-slevy-na-jizdne",
@@ -933,7 +1004,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "doprava-praha-letiste-kladno",
@@ -946,7 +1018,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "doprava-letiste-praha",
@@ -959,7 +1032,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vzdel-platy-ucitelu",
@@ -972,7 +1046,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vzdel-mista-ve-skolkach",
@@ -985,7 +1060,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vzdel-bezplatne-vzdelavani",
@@ -998,7 +1074,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vzdel-obsah-vyuky",
@@ -1011,7 +1088,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vzdel-digitalizace-skolstvi",
@@ -1024,7 +1102,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vzdel-podminky-pedagogu",
@@ -1037,7 +1116,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vzdel-financni-gramotnost-a-ai",
@@ -1050,7 +1130,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "vzdel-nastupni-plat-ucitele",
@@ -1063,7 +1144,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "soc-duchodovy-vek-65",
@@ -1076,7 +1158,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "soc-valorizace-duchodu",
@@ -1089,7 +1172,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "soc-udrzitelny-duchodovy-system",
@@ -1102,7 +1186,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "soc-dostupnost-socialnich-sluzeb",
@@ -1115,7 +1200,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "soc-pece-o-seniory-a-ozp",
@@ -1128,7 +1214,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "soc-revize-davek",
@@ -1141,7 +1228,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "soc-motivace-k-praci",
@@ -1154,7 +1242,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "soc-slad-prace-a-rodiny",
@@ -1167,7 +1256,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "soc-rodicovsky-prispevek-400k",
@@ -1180,7 +1270,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "soc-vekove-valorizace-od-80",
@@ -1193,7 +1284,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zdrav-cekaci-lhuty",
@@ -1206,7 +1298,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zdrav-dostupnost-leku",
@@ -1219,7 +1312,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zdrav-prevence-onko-kardio",
@@ -1232,7 +1326,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zdrav-dusevni-zdravi",
@@ -1245,7 +1340,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zdrav-modernizace-nemocnic",
@@ -1258,7 +1354,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zdrav-digitalizace",
@@ -1271,7 +1368,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zdrav-personalni-stabilita",
@@ -1284,7 +1382,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zdrav-podminky-zdravotniku",
@@ -1297,7 +1396,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zdrav-dostupna-pece-pro-vsechny",
@@ -1310,7 +1410,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zdrav-fakultni-nemocnice-praha",
@@ -1323,7 +1424,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zem-potravinova-sobestacnost",
@@ -1336,7 +1438,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zem-ferove-podminky",
@@ -1349,7 +1452,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zem-lokalni-producenti",
@@ -1362,7 +1466,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zem-byrokracie",
@@ -1375,7 +1480,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zem-ochrana-pudy",
@@ -1388,7 +1494,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zem-mladi-zemedelci",
@@ -1401,7 +1508,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zivpr-ochrana-prirody",
@@ -1414,7 +1522,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zivpr-opatreni-proti-suchu",
@@ -1427,7 +1536,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zivpr-lesy-a-voda-v-krajine",
@@ -1440,7 +1550,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zivpr-ochrana-zvirat",
@@ -1453,7 +1564,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zivpr-cista-energie",
@@ -1466,7 +1578,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zivpr-odpady-a-recyklace",
@@ -1479,7 +1592,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "zivpr-green-deal",
@@ -1492,7 +1606,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "kult-financovani-kultury",
@@ -1505,7 +1620,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "kult-regionalni-instituce",
@@ -1518,7 +1634,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "kult-kulturni-dedictvi",
@@ -1531,7 +1648,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "kult-ziva-kultura",
@@ -1544,7 +1662,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "kult-dostupnost-vsem-generacim",
@@ -1557,7 +1676,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "kult-poplatky-verejnopravni-media",
@@ -1570,7 +1690,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "kult-vstup-zdarma-do-muzei",
@@ -1583,7 +1704,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "kult-vltavska-filharmonie",
@@ -1596,7 +1718,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "kult-platy-pracovniku-v-kulture",
@@ -1609,7 +1732,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "byd-zrychleni-stavebniho-rizeni",
@@ -1622,7 +1746,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "byd-najemni-a-druzstevni-byty",
@@ -1635,7 +1760,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "byd-podpora-mladych-rodin",
@@ -1648,7 +1774,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "byd-studentske-koleje",
@@ -1661,7 +1788,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "byd-byty-pro-seniory",
@@ -1674,7 +1802,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "byd-bydleni-pro-klicove-profese",
@@ -1687,7 +1816,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "byd-vyrovnani-regionalnich-rozdilu",
@@ -1700,7 +1830,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "byd-novy-stavebni-zakon",
@@ -1713,7 +1844,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "sport-dostupnost-pohybovych-aktivit",
@@ -1726,7 +1858,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "sport-sportovni-infrastruktura",
@@ -1739,7 +1872,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "sport-mladeznicky-sport",
@@ -1752,7 +1886,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "sport-prevence-civilizacnich-chorob",
@@ -1765,7 +1900,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "sport-vrcholovy-sport",
@@ -1778,7 +1914,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "veda-investice-do-vyzkumu",
@@ -1791,7 +1928,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "veda-propojeni-s-praxi",
@@ -1804,7 +1942,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "veda-startupy",
@@ -1817,7 +1956,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "veda-podminky-pro-vyzkumniky",
@@ -1830,7 +1970,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "veda-zruseni-ministra-pro-vedu",
@@ -1843,7 +1984,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "dig-digitalizace-statni-spravy",
@@ -1856,7 +1998,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "dig-snizeni-administrativni-zateze",
@@ -1869,7 +2012,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "dig-kyberneticka-bezpecnost",
@@ -1882,7 +2026,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "dig-digitalni-infrastruktura",
@@ -1895,7 +2040,8 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   },
   {
     "id": "dig-digitalni-gramotnost",
@@ -1908,6 +2054,7 @@
     ],
     "draftExtra": null,
     "status": "čekající",
-    "statusNote": null
+    "statusNote": null,
+    "statusQuo": false
   }
 ]
